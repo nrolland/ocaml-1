@@ -71,7 +71,7 @@ make test
 
 ## Adding an Exercise
 
-The [contributing guide](https://github.com/exercism/docs/blob/master/contributing-to-language-tracks/README.md) provides guidance on
+The [contributing guide](https://exercism.org/docs/building/tracks/practice-exercises) provides guidance on
 how to add a new exercise, or port an existing exercise from another language track.
 
 This is a brief guide, with specifics for the OCaml track.
